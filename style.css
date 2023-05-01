@@ -1,0 +1,10 @@
+ul li {
+ list-style-type: none;
+}
+ a{
+   text-decoration: none;
+   background-color: #ebebff;
+   color: #6070ff;
+
+ }
+
